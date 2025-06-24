@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625018230533",
+    "project_id": "woodline-11e39",
+    "storage_bucket": "woodline-11e39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625018230533:web:cbb6b4d2f43c843f6bc96c",
+        "android_client_info": {
+          "package_name": "com.woodline.app"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG29JW-NdRFDlvftpgyoLw1xaf0MgmJu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625018230533-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625018230533-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
